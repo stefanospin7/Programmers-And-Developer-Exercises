@@ -4,13 +4,13 @@
 **This Repo contains 300 developer/programmer exercises and challenges both sorted in levels and mixed (txt, rtf, csv and json).**
 
 
-◘ 100 easy level 
+◘ 100 easy level  exercises/challenges
 
-◘ 100 medium level 
+◘ 100 medium level exercises/challenges
 
-◘ 100 hard level 
+◘ 100 hard level exercises/challenges
 
-◘ 300 mixed/shuflled level (the same contained in the other levels but mixed/shuffled)
+◘ 300 mixed/shuflled  exercises/challenges (the same contained in the other levels but mixed/shuffled)
 
 
 
