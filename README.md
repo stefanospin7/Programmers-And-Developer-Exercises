@@ -26,17 +26,12 @@ https://codeforwin.org/2015/07/star-patterns-program-in-c.html
 
 https://www.codecademy.com/resources/blog/advanced-python-code-challenges/
 
-
 https://www.codecademy.com/resources/blog/advanced-python-code-challenges/
-
 
 https://adriann.github.io/programming_problems.html
 
-
 https://pynative.com/python-basic-exercise-for-beginners/
 
-
 https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php
-
 
 https://leetcode.com/problemset/all/?sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJESUZGSUNVTFRZIn1d
